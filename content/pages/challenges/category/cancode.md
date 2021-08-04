@@ -13,7 +13,7 @@ sections:
     blog_feed_cols: three
     enable_cards: true
     show_recent: false
-    category: content/data/categories/aws-sa.yaml
+    category: content/data/categories/can-code.yaml
     show_date: true
     show_categories: false
     show_author: false
