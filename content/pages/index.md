@@ -44,6 +44,26 @@ sections:
     background_image_repeat: repeat
     background_image_size: auto
     background_image_opacity: 98
+  - type: blog_feed_section
+    title: Latest Activity
+    blog_feed_cols: three
+    enable_cards: true
+    show_recent: true
+    recent_count: 6
+    show_image: true
+    show_date: true
+    show_categories: false
+    show_author: false
+    show_excerpt: false
+    align: center
+    padding_top: medium
+    padding_bottom: medium
+    has_border: true
+    background_color: none
+    background_image: images/pattern.svg
+    background_image_repeat: repeat
+    background_image_size: auto
+    background_image_opacity: 98
   - type: grid_section
     title: Subscribe
     grid_items:
