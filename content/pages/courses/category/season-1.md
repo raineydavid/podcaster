@@ -1,5 +1,5 @@
 ---
-title: Becoming, Season 1
+title: Becoming, AWS Solution Architect
 sections:
   - type: hero_section
     title: Episodes
