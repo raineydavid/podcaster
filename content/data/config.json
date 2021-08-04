@@ -14,7 +14,7 @@
         "primary_nav_links": [
             {
                 "label": "Courses",
-                "url": "/episodes",
+                "url": "/courses",
                 "style": "link"
             },
             {
