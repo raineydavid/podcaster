@@ -2,7 +2,7 @@
 title: Becoming, AWS Cloud Practitioner
 sections:
   - type: hero_section
-    title: Episodes
+    title: Bootcamp
     subtitle: AWS Cloud Practitioner
     align: center
     padding_top: medium
