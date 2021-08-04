@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Welcome to Challenge Yourself One Week Podcast
-    subtitle: Optional hero section subtitle
+    subtitle: One Week Bootcamp
     content: >-
       A podcast for Web developers interested in building Jamstack websites.
       Hosted by Miles Tone.
