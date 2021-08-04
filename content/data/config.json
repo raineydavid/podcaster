@@ -90,7 +90,7 @@
             },
             {
                 "label": "Facebook",
-                "url": "https://www.facebook.com/",
+                "url": "https://www.facebook.com/oneweekbootcamp",
                 "style": "link",
                 "has_icon": true,
                 "icon": "facebook",
@@ -99,7 +99,7 @@
             },
             {
                 "label": "Instagram",
-                "url": "https://www.instagram.com/",
+                "url": "https://www.instagram.com/oneweekbootcamp",
                 "style": "link",
                 "has_icon": true,
                 "icon": "instagram",
