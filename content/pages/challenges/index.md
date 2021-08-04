@@ -53,10 +53,10 @@ seo:
       value: website
       keyName: property
     - name: og:title
-      value: Episodes
+      value: Challenges
       keyName: property
     - name: og:description
-      value: This is the episodes page
+      value: This is the challenges page
       keyName: property
     - name: og:image
       value: images/post-9.jpg
