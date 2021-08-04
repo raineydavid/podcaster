@@ -1,5 +1,5 @@
 ---
-title: Becoming, A Code
+title: Becoming, A Co
 sections:
   - type: hero_section
     title: Episodes
