@@ -1,5 +1,5 @@
 ---
-title: Episode 1 - Utrum Igitur Tibi Litteram Videor An Totas Paginas
+title: Day 1 - Utrum Igitur Tibi Litteram Videor An Totas Paginas
 subtitle: >-
   Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil quieti videre, nihil tranquilli potest.
 date: 2020-07-15
