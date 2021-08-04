@@ -1,5 +1,5 @@
 ---
-title: Becoming, AWS Solution Architect
+title: Becoming, A Code
 sections:
   - type: hero_section
     title: Episodes
