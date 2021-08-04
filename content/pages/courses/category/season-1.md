@@ -1,5 +1,5 @@
 ---
-title: Episodes, Season 1
+title: Becoming, Season 1
 sections:
   - type: hero_section
     title: Episodes
