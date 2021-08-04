@@ -3,7 +3,7 @@ title: Becoming, AWS Solution Architect
 sections:
   - type: hero_section
     title: Episodes
-    subtitle: Season 1
+    subtitle: AWS Solutions Architect
     align: center
     padding_top: medium
     padding_bottom: small
