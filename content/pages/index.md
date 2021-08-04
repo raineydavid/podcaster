@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Welcome to Challenge Yourself One Week Podcast
+    title: Welcome to Challenge Yourself Podcast
     subtitle: One Week Bootcamp
     content: >-
       A podcast for Web developers interested in building Jamstack websites.
