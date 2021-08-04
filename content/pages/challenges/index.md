@@ -67,7 +67,7 @@ seo:
     - name: twitter:title
       value: Episodes
     - name: twitter:description
-      value: This is the episodes page
+      value: This is the challenges page
     - name: twitter:image
       value: images/post-9.jpg
       relativeUrl: true
