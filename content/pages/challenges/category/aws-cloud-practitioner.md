@@ -1,5 +1,5 @@
 ---
-title: Becoming, AWS Solution Architect
+title: Becoming, AWS Cloud Practitioner
 sections:
   - type: hero_section
     title: Episodes
