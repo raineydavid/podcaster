@@ -3,7 +3,7 @@ title: Becoming, A Coder
 sections:
   - type: hero_section
     title: Episodes
-    subtitle: AWS Solutions Architect
+    subtitle: Coding Challenges
     align: center
     padding_top: medium
     padding_bottom: small
