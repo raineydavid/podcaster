@@ -4,7 +4,7 @@ subtitle: >-
   Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil quieti videre, nihil tranquilli potest.
 date: 2020-07-15
 categories:
-  - content/data/categories/se.yaml
+  - content/data/categories/aws-cp.yaml
 thumb_image: images/post-1.jpg
 thumb_image_alt: Podcast 1 placeholder image
 image: images/post-1.jpg
