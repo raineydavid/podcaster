@@ -1,9 +1,9 @@
 ---
-title: Episodes
+title: Challenges
 sections:
   - type: hero_section
-    title: Episodes
-    subtitle: List of episodes in order
+    title: Challenges
+    subtitle: List of challenges in order
     align: center
     padding_top: medium
     padding_bottom: small
