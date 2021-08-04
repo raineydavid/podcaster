@@ -28,7 +28,7 @@ sections:
     background_image_size: auto
     background_image_opacity: 98
   - type: form_section
-    title: Get The Challenge Straight Into your Inbox
+    title: Get The Challenge Straight Into Your Inbox
     title_align: center
     content_align: center
     form_position: bottom
