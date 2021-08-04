@@ -4,9 +4,9 @@ sections:
   - type: hero_section
     title: Welcome to Challenge Yourself Podcast
     subtitle: One Week Bootcamp
-    content: >-
+    content: >
       A podcast for Web developers interested in building Jamstack websites.
-      Hosted by Miles Tone.
+      Hosted by Rainey David
     actions:
       - label: Subscribe to Podcast
         url: /thank-you
