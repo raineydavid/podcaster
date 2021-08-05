@@ -5,8 +5,8 @@ sections:
     title: Welcome to Bootcamp
     subtitle: One Week To Change Your Life
     content: >
-      A podcast for Web developers interested in building Jamstack websites.
-      Hosted by Rainey David
+      A podcast for Women interested in succeeding in Tech. Hosted by Rainey
+      David
     actions:
       - label: Subscribe to Podcast
         url: /thank-you
