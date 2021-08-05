@@ -60,7 +60,7 @@ sections:
 
           ### £350
 
-          per month, billed yearly
+          per week, billed yearly
 
           * Et semper leo mattis orci conubia congue
           * Quisque eleifend imperdiet tortor
