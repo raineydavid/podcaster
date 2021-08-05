@@ -2,7 +2,7 @@
 title: Author 
 sections:
   - type: hero_section
-    title: Dianne Ameter
+    title: Author
     subtitle: The optional subtitle
     align: center
     padding_top: medium
