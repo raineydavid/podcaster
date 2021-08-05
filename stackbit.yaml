@@ -288,7 +288,7 @@ models:
   person:
     type: data
     label: Person
-    folder: person
+    folder: people
     fields:
       - type: string
         name: id
