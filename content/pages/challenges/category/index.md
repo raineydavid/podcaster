@@ -1,5 +1,5 @@
 ---
-title: 'Becoming, AWS Cloud Practitioner'
+title: 'Becoming,Templat'
 sections:
   - type: hero_section
     title: Bootcamp
