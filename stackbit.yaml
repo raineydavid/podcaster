@@ -288,7 +288,7 @@ models:
   person:
     type: data
     label: Person
-    folder: team
+    folder: author
     fields:
       - type: string
         name: id
@@ -354,7 +354,8 @@ models:
     type: page
     label: Page
     layout: page
-    exclude: bootcamps/**/*
+    exclude:
+      - bootcamps/**/*
     fields:
       - type: string
         name: title
