@@ -24,8 +24,6 @@ sections:
     background_image_size: cover
     background_image_opacity: 20
     has_border: true
-  - type: blog_post_tags
-
   - type: blog_feed_section
     title: Latest Activity
     blog_feed_cols: three
