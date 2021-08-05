@@ -455,6 +455,7 @@ models:
         models:
           - stackbit_page_meta
         label: Seo
+    description: Blog Post
   advanced:
     type: page
     label: Advanced page
