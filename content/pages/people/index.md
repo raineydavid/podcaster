@@ -53,7 +53,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Challenges
+      value: Bootcamp People
       keyName: property
     - name: 'og:description'
       value: This is the people page
