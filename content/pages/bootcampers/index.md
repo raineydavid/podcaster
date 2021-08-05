@@ -3,7 +3,7 @@ title: Challenges
 sections:
   - type: hero_section
     title: People
-    subtitle: List of challenges in order
+    subtitle: List of people in order
     align: center
     padding_top: medium
     padding_bottom: small
