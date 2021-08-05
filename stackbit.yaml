@@ -378,6 +378,7 @@ models:
       - category/**
       - author/**
       - tag/**
+      - people/**
     fields:
       - type: string
         name: title
