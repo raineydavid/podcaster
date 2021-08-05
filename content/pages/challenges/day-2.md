@@ -4,7 +4,7 @@ subtitle: >-
   Idemque diviserunt naturam hominis in animum et corpus. Si enim ad populum me vocas, eum.
 date: 2020-08-14
 categories:
-  - content/data/categories/aws-cp.yaml
+  - content/data/categories/default.yaml
 thumb_image: images/post-2.jpg
 thumb_image_alt: Podcast 2 placeholder image
 image: images/post-2.jpg
