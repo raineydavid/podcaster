@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Welcome to Bootcamp
-    subtitle: One Week Bootcamp
+    subtitle: One Week To Change Your Life
     content: >
       A podcast for Web developers interested in building Jamstack websites.
       Hosted by Rainey David
