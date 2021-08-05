@@ -14,7 +14,7 @@
         "primary_nav_links": [
             {
                 "label": "Bootcamps",
-                "url": "/challenges",
+                "url": "/bootcamps",
                 "style": "link"
             },
             {
