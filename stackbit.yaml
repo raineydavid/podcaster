@@ -339,7 +339,7 @@ models:
       - type: string
         name: id
         label: ID
-        description: A unique identifier used when filtering episodes, e.g. "jamstack"
+        description: A unique identifier used when filtering bootcamps, e.g. "jamstack"
         required: true
       - type: string
         name: link
