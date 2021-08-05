@@ -15,7 +15,7 @@ sections:
         content: |-
           ---
 
-          ### £9
+          ### £100
 
           per week, billed yearly
 
@@ -36,7 +36,7 @@ sections:
         content: |-
           ---
 
-          ### £19
+          ### £100
 
           per month, billed yearly
 
@@ -58,7 +58,7 @@ sections:
         content: |-
           ---
 
-          ### £39
+          ### £350
 
           per month, billed yearly
 
