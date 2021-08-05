@@ -1,1 +1,6 @@
-challenges/category/can-code
+{
+    "id": "aws-sa",
+    "link": "challenges/category/aws-sa",
+    "title": "AWS Solution Architect",
+    "type": "category"
+}
