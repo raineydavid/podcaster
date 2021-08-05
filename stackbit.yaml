@@ -354,8 +354,7 @@ models:
     type: page
     label: Page
     layout: page
-    exclude:
-      - episodes/**/*
+    exclude: bootcamps/**/*
     fields:
       - type: string
         name: title
