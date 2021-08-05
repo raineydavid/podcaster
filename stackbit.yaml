@@ -293,12 +293,12 @@ models:
       - type: string
         name: id
         label: ID
-        description: A unique identifier used when filtering bootcamps, e.g. "john-doe"
+        description: A unique identifier used when filtering bootcamps, e.g. "aws"
         required: true
       - type: string
         name: link
         label: Link
-        description: The link to the author page, e.g. "episodes/author/john-doe"
+        description: The link to the author page, e.g. "bootcamps/author/john-doe"
       - type: string
         name: first_name
         label: First name
