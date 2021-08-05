@@ -46,8 +46,8 @@ sections:
     has_border: true
     background_color: secondary
 seo:
-  title: Episodes
-  description: This is the episodes page
+  title: People
+  description: This is the people page
   extra:
     - name: 'og:type'
       value: website
