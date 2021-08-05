@@ -12,7 +12,7 @@ sections:
     blog_feed_cols: three
     enable_cards: true
     show_recent: false
-    author: src/data/people/dianne-ameter.yaml
+    author: src/data/people/owb.yaml
     show_date: true
     show_categories: true
     show_author: true
