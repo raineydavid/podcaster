@@ -6,6 +6,7 @@ subtitle: >-
 date: '2021-05-12'
 categories:
   - content/data/categories/season-2.yaml
+  - content/data/categories/category-h02gp84nr.json
 thumb_image: images/post-10.jpg
 thumb_image_alt: Episode 10 placeholder image
 image: images/post-10.jpg
