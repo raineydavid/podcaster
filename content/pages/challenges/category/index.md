@@ -1,5 +1,5 @@
 ---
-title: 'Becoming,Templat'
+title: 'Becoming, One Week Bootcamp'
 sections:
   - type: hero_section
     title: Bootcamp
