@@ -2,7 +2,7 @@
 title: Challenges
 sections:
   - type: hero_section
-    title: Challenges
+    title: Bootcamps
     subtitle: List of challenges in order
     align: center
     padding_top: medium
