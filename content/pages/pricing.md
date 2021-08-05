@@ -30,7 +30,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: Pemium
+      - title: Student
         subtitle: Optional subtitle
         title_align: left
         content: |-
