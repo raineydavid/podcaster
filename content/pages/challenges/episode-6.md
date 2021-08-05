@@ -4,7 +4,7 @@ subtitle: >-
   Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam equidem satis, inquit, me dixisse.
 date: 2020-10-29
 categories:
-  - content/data/categories/week-1.yaml
+  - content/data/categories/default.yaml
 thumb_image: images/post-6.jpg
 thumb_image_alt: Episode 6 placeholder image
 image: images/post-6.jpg
