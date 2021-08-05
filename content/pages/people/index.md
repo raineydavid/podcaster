@@ -56,7 +56,7 @@ seo:
       value: Challenges
       keyName: property
     - name: 'og:description'
-      value: This is the challenges page
+      value: This is the people page
       keyName: property
     - name: 'og:image'
       value: images/post-9.jpg
