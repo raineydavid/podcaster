@@ -369,7 +369,7 @@ models:
         label: Seo
   post:
     type: page
-    urlPath: /episodes/{slug}
+    urlPath: /bootcamps/{slug}
     label: Post
     layout: post
     folder: bootcamps
