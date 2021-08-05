@@ -320,12 +320,12 @@ models:
       - type: string
         name: id
         label: ID
-        description: A unique identifier used when filtering episodes, e.g. "news"
+        description: A unique identifier used when filtering bootcamps, e.g. "news"
         required: true
       - type: string
         name: link
         label: Link
-        description: The link to the category page, e.g. "episodes/category/news"
+        description: The link to the category page, e.g. "bootcamps/category/news"
       - type: string
         name: title
         label: Title
