@@ -345,6 +345,7 @@ models:
         name: link
         label: Link
         description: The link to the tag page, e.g. "bootcamps/tag/aws"
+        default: bootcamps/tag/
       - type: string
         name: title
         label: Title
