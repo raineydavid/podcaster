@@ -356,6 +356,7 @@ models:
     layout: page
     exclude:
       - bootcamps/**/*
+      - people/**/*
     fields:
       - type: string
         name: title
