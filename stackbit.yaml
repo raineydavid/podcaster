@@ -463,7 +463,7 @@ models:
     type: page
     label: Advanced page
     layout: advanced
-    hideContent: false
+    hideContent: true
     fields:
       - type: string
         name: title
