@@ -488,6 +488,7 @@ models:
         models:
           - page_meta
         label: Seo
+    description: Add Multiple Components Page
   section:
     type: object
     label: Section
