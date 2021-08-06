@@ -366,7 +366,7 @@ models:
       - type: model
         name: seo
         models:
-          - stackbit_page_meta
+          - page_meta
         label: Seo
   post:
     type: page
@@ -455,7 +455,7 @@ models:
       - type: model
         name: seo
         models:
-          - stackbit_page_meta
+          - page_meta
         label: Seo
     description: Blog Post
   advanced:
@@ -485,7 +485,7 @@ models:
       - type: model
         name: seo
         models:
-          - stackbit_page_meta
+          - page_meta
         label: Seo
   section:
     type: object
@@ -1703,7 +1703,7 @@ models:
         label: No follow
         default: false
         description: Add rel="nofollow" attribute to the link
-  stackbit_page_meta:
+  page_meta:
     type: object
     label: Page meta data
     fields:
