@@ -1,5 +1,5 @@
 ---
-title: Challenges
+title: Bootcamps
 sections:
   - type: hero_section
     title: Bootcamps
