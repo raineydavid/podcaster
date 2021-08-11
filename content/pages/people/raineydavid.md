@@ -43,7 +43,7 @@ sections:
     background_color: secondary
 seo:
   title: Posts by Rainey David
-  description: This is the author archive page
+  description: This is the bootcamper archive page
   extra:
     - name: 'og:type'
       value: website
@@ -52,7 +52,7 @@ seo:
       value: Posts by Rainey David
       keyName: property
     - name: 'og:description'
-      value: This is the author archive page
+      value: This is the bootcamper archive page
       keyName: property
     - name: 'og:image'
       value: images/rainey.jpeg
