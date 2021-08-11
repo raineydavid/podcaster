@@ -1,6 +1,5 @@
-{
-    "id": "default",
-    "link": "bootcamps/category/default",
-    "title": "Default",
+"id": "default",
+ "link": "bootcamps/category/default",
+"title": "Default",
     "type": "category"
 }
