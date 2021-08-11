@@ -5,7 +5,7 @@
     "style": "bold",
     "palette": "red",
     "mode": "dark",
-    "base_font": "serif",
+    "base_font": "sans-serif",
     "header": {
         "title": "One Week Bootcamp",
         "logo": "/images/logo.svg",
