@@ -288,7 +288,7 @@ models:
   person:
     type: data
     label: Person
-    folder: bootcamps/author
+    folder: bootcamps/people
     fields:
       - type: string
         name: id
