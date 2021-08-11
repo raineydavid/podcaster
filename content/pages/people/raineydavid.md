@@ -1,8 +1,7 @@
 ---
 title: Bootcamper - Rainey
 subtitle: >-
-  Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam
-  equidem satis, inquit, me dixisse.
+  All about Rainey, bootcamp founder and all that jazz
 date: '2021-01-04'
 categories:
   - content/data/categories/default.yaml
