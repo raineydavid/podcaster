@@ -1,1 +1,0 @@
-file:///home/codeeditor/workspace/content/pages/blog/author/dianne-ameter.md
