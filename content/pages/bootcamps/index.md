@@ -46,8 +46,8 @@ sections:
     has_border: true
     background_color: secondary
 seo:
-  title: Episodes
-  description: This is the episodes page
+  title: Bootcamps
+  description: This is the bootcamps page
   extra:
     - name: 'og:type'
       value: website
