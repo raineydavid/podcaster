@@ -49,13 +49,13 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Posts by Dianne Ameter
+      value: Posts by Rainey David
       keyName: property
     - name: 'og:description'
       value: This is the author archive page
       keyName: property
     - name: 'og:image'
-      value: images/classic/post-5.png
+      value: images/rainey.jpeg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
