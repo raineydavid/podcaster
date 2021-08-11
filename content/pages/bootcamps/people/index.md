@@ -1,5 +1,5 @@
 ---
-title: Challenges
+title: Challengers
 sections:
   - type: hero_section
     title: People
