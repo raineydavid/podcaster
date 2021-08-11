@@ -8,7 +8,7 @@ import SectionBackground from './SectionBackground';
 import BlogPostCategories from './BlogPostCategories';
 import BlogPostAuthor from './BlogPostAuthor';
 
-export default class BlogFeedSection extends React.Component {
+export default class BlogAuthorFeedSection extends React.Component {
     renderBlogFeedItemFilter(post, data, section) {
         const sectionAuthorRef = _.get(section, 'author');
         const sectionCategoryRef = _.get(section, 'category');
