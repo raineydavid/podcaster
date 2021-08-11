@@ -65,9 +65,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Episodes
+      value: Bootcamps
     - name: 'twitter:description'
-      value: This is the challenges page
+      value: This is the bootcamps page
     - name: 'twitter:image'
       value: images/post-9.jpg
       relativeUrl: true
