@@ -1,8 +1,8 @@
 ---
-title: Dianne Ameter
+title: Rainey David
 sections:
   - type: hero_section
-    title: Dianne Ameter
+    title: Rainey David
     subtitle: The optional subtitle
     align: center
     padding_top: medium
